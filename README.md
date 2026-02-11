@@ -1,3 +1,4 @@
+Link to the streamlit app for online use : https://mri-app-hup3qtd0ws8.streamlit.app/
 # MRI Brain Tumor Classification
 
 This project provides a web application for classifying MRI brain scans into four categories: glioma tumor, meningioma tumor, no tumor, and pituitary tumor. It uses a pre-trained EfficientNetB3 model to analyze uploaded MRI images and predict the tumor type.
